@@ -10,6 +10,8 @@ For calm, relaxation, de-stress, and sleep.
 - Phosphatidylserine (PS):
   - Phosphatidylserine is the primary phospholipid in brain cell membranes. PS improves cell communication to support memory and focus and helps regulate cortisol during stress.*
   - Dose: 100mg, 2 to 3 times daily, with meals.
+  - Where to buy: From pharmacy (Unichem, Life Pharmacy). Not on the shelves. Ask pharmacist to order from supplier. 
+  - NZ suppliers: Solgar
 - 5-HTP:
 - Magnesium:
 
