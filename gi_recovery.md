@@ -76,4 +76,7 @@
 - Deep breaths throughout day. 	
 
 ### References and relevant reading material:
-- history of our favourite foods
+- Books:
+	- history of our favourite foods
+	- Mark hyman what the heck should I eat
+	- 
