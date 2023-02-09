@@ -55,12 +55,13 @@
 - Eat first meal at or after 10am. 
 
 
-# Remove guilt:
+### Remove guilt:
 - Eat healthy but if you eat unhealthy, accept it and move on. Don’t dwell on it and feel guilty; really bad for health. 
 
 
-# Active relaxation: 
+### Active relaxation: 
 - NSDR, active gut relax through deep breathes and and trying to mentally relax the gut. 
+- Deliberately set time aside for relaxation and/or meditation.
 
 
 ### Have the right mindset 
