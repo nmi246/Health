@@ -1,7 +1,7 @@
 # How to recover from GI issues:
 
 ### Diet:
-- [Dr Gundry’s Print-Friendly “Yes” & “No” Lists](https://drgundry.com/dr-gundrys-print-friendly-yes-no-lists/)
+- [Dr Gundry’s “Yes” and “No” food List](https://drgundry.com/dr-gundrys-print-friendly-yes-no-lists/)
 - [Shorter, simpler list based on above]()
 
 ### General food DOs and DON'Ts:
