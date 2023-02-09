@@ -47,7 +47,11 @@
 
 
 
-###  Exercise 
+###  Exercise
+- good for detox (gets lymphatic system moving), remove toxins through sweat, 
+- stretching
+- lift heavy
+- aerobic exercise
 
 
 ### Fasting:
