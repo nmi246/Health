@@ -77,6 +77,5 @@
 
 ### References and relevant reading material:
 - Books:
-	- history of our favourite foods
-	- Mark hyman what the heck should I eat
-	- 
+	- [Food: What the Heck Should I Eat? - Mark Hyman, MD](https://www.amazon.com/Food-What-Heck-Should-Eat/dp/0316338869/ref=sr_1_1?crid=26PMP6S6O15KY&keywords=what+the+heck+should+I+eat&qid=1675910106&s=books&sprefix=what+the+heck+should+i+e%2Cstripbooks-intl-ship%2C331&sr=1-1)
+	- [The Secret History of Food: Strange but True Stories About the Origins of Everything We Eat Hardcover – Matt Siegel](https://www.amazon.com/Secret-History-Food-Strange-Everything/dp/0062973215)
