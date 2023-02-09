@@ -23,6 +23,7 @@
 - limbic retraining: https://youtu.be/8k_8JagAiuo
 - Dynamic neural retraining:
 	- https://youtu.be/TuLQ0tSCHZo
+	- https://retrainingthebrain.com/research/
 
 
 ### Improve social skills:
