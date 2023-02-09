@@ -17,9 +17,15 @@ Eating:
 Improve social skills:
 	•	Social anxiety leads to nervousness, binge eating and drinking  self control with food and drinks. 
 
-Sleep:
-	•	Try 10-20min nap between 1-3pm. 
-	•	Proper sleep at night.
+Sleep and Meditation:
+- Try 10-20min nap between 1-3pm. 
+- Proper sleep at night, 7-8 hours of sleep, 8-9 hours in bed. 
+- If you can't fall asleep try 10-20 min of NSDR meditation:
+	- 10 min from Andrew Huberman: https://youtu.be/AKGrmY8OSHM
+	- 20 min from MadeFor: https://youtu.be/pL02HRFk2vo 
+- Sleep hygiene from Matthew Walker:
+	- link: 
+	
 
 Electrolytes 
 
