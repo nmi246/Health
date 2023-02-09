@@ -1,23 +1,26 @@
-How to recover from GI issues:
+# How to recover from GI issues:
 
-Diet:
+### Diet:
 - [Dr Gundry’s Print-Friendly “Yes” & “No” Lists](https://drgundry.com/dr-gundrys-print-friendly-yes-no-lists/)
 - [Shorter, simpler list based on above]()
 
+### General food DOs and DON'Ts:
+- Inflammation food remove 
+- Real food only
+- Avoid the following:
+	- All ceraels	 
 
-Inflammation food remove 
-Real food only 
+### Good eating habits: 
+- Chew food properly, mouth closed
+- Don’t drink +/- 30min from meals. 
+- Don’t eat 2-3 hours before bed. 
+- Don’t drink before bed. 
 
-Eating: 
-	•	Chew food properly, mouth closed
-	•	Don’t drink +/- 30min from meals. 
-	•	Don’t eat 2-3 hours before bed. 
-	•	Don’t drink before bed. 
+### Improve social skills:
+- Social anxiety leads to nervousness, binge eating and drinking  self control with food and drinks. 
 
-Improve social skills:
-	•	Social anxiety leads to nervousness, binge eating and drinking  self control with food and drinks. 
 
-Sleep and Meditation:
+### Sleep and Meditation:
 - Try 10-20min nap between 1-3pm. 
 - Proper sleep at night, 7-8 hours of sleep, 8-9 hours in bed. 
 - If you can't fall asleep try 10-20 min of NSDR meditation:
@@ -27,17 +30,19 @@ Sleep and Meditation:
 	- link: 
 	
 
-Electrolytes 
-
-Exercise 
+### Electrolytes 
 
 
-Fasting:
-	•	skip breakfast. 
+###  Exercise 
 
 
-Remove guilt:
-	•	Eat healthy but if you eat unhealthy, accept it and move on. Don’t dwell on it and feel guilty; really bad for health. 
+### Fasting:
+- skip breakfast
+- Eat first meal at or after 10am. 
+
+
+# Remove guilt:
+- Eat healthy but if you eat unhealthy, accept it and move on. Don’t dwell on it and feel guilty; really bad for health. 
 
 Active relaxation: 
 	•	NSDR, active gut relax through deep breathes and and trying to mentally relax the gut. 
