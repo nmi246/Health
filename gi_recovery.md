@@ -18,6 +18,13 @@
 - Don’t eat 2-3 hours before bed. 
 - Don’t drink close to bed time. 
 
+
+### Limbic retraining, aka DNR
+- limbic retraining: https://youtu.be/8k_8JagAiuo
+- Dynamic neural retraining:
+	- https://youtu.be/TuLQ0tSCHZo
+
+
 ### Improve social skills:
 - Social anxiety leads to nervousness, binge eating and drinking  self control with food and drinks. 
 
