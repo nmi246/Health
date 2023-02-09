@@ -1,10 +1,5 @@
 How to recover from GI issues:
 
-
-
-Nadia, gut fix
-
-
 Diet:
 - [Dr Gundry’s Print-Friendly “Yes” & “No” Lists](https://drgundry.com/dr-gundrys-print-friendly-yes-no-lists/)
 - [Shorter, simpler list based on above]()
