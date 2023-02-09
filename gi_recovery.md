@@ -6,9 +6,11 @@
 
 ### General food DOs and DON'Ts:
 - Inflammation food remove 
-- Real food only
+- Eat real food only, to avoid food cravings:
+	- this video explains how and why we get food cravings: https://youtu.be/tJGFYL289q0
 - Avoid the following:
-	- All ceraels	 
+	- All ceraels
+	-  
 
 ### Good eating habits: 
 - Chew food properly, mouth closed
@@ -44,19 +46,17 @@
 # Remove guilt:
 - Eat healthy but if you eat unhealthy, accept it and move on. Don’t dwell on it and feel guilty; really bad for health. 
 
-Active relaxation: 
-	•	NSDR, active gut relax through deep breathes and and trying to mentally relax the gut. 
 
-Mind set 
-
-
-Meditation:
-	•	NSDR before sleep 
-	•	Deep breaths throughout day. 
-	•	
+# Active relaxation: 
+- NSDR, active gut relax through deep breathes and and trying to mentally relax the gut. 
 
 
-TODO: 
-	⁃	add to GitHub. 
-	⁃	Add references and web-links for more info. 
-	⁃
+### Have the right mindset 
+
+
+### Meditation:
+- NSDR before sleep 
+- Deep breaths throughout day. 	
+
+### References and relevant reading material:
+- history of our favourite foods
