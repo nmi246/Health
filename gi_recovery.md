@@ -13,10 +13,10 @@
 	-  
 
 ### Good eating habits: 
-- Chew food properly, mouth closed
-- Don’t drink +/- 30min from meals. 
+- Chew food properly 20-30 times, mouth closed, good posture, breathing through nose while chewing. 
+- Don’t drink within 30min either side of a meal 
 - Don’t eat 2-3 hours before bed. 
-- Don’t drink before bed. 
+- Don’t drink close to bed time. 
 
 ### Improve social skills:
 - Social anxiety leads to nervousness, binge eating and drinking  self control with food and drinks. 
@@ -32,7 +32,11 @@
 	- link: 
 	
 
-### Electrolytes 
+### Electrolytes
+-kkk
+- [Hydralyte Effervescent Apple & Blackcurrent 20s, Life-Pharmacy](https://www.lifepharmacy.co.nz/home/shop-by-category/weight--vitamins/vitamins--minerals/digestive-health/hydralyte-apple-blackcurrant-effervescent-tablets-20s/)
+- [BePure Magnesium Restore Caps SBPMA3 60s, Life-Pharmacy](https://www.lifepharmacy.co.nz/home/shop-by-category/weight--vitamins/vitamins--minerals/muscle-pain--cramp/bepure-magnesium-restore-capsules-60s-3b847004/) 
+
 
 
 ###  Exercise 
