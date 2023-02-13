@@ -45,11 +45,19 @@
 - [Hydralyte Effervescent Apple & Blackcurrent 20s, Life-Pharmacy](https://www.lifepharmacy.co.nz/home/shop-by-category/weight--vitamins/vitamins--minerals/digestive-health/hydralyte-apple-blackcurrant-effervescent-tablets-20s/)
 - [BePure Magnesium Restore Caps SBPMA3 60s, Life-Pharmacy](https://www.lifepharmacy.co.nz/home/shop-by-category/weight--vitamins/vitamins--minerals/muscle-pain--cramp/bepure-magnesium-restore-capsules-60s-3b847004/) 
 
-### Supplements (probably not be necessary):
-- Zinc carnosine
+### Foods + Supplements (probably not be necessary):
+- Bone Broth
+- Naturally fermented foods
+- prebiotic rich foods
+- Collagen
+- Glutamine
+- Sunlight (UV-B (??) positively affects gut microbiome)
+- Quality sleep (very important)
+Others:
+- Zinc carnosine (more for fixing ulcers)
 - bile salts (??)
 - B-vitamins (??)
-- etc
+
 
 ###  Exercise
 - good for detox (gets lymphatic system moving), remove toxins through sweat, 
