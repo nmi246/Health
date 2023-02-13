@@ -53,10 +53,10 @@
 - Glutamine
 - Sunlight (UV-B (??) positively affects gut microbiome)
 - Quality sleep (very important)
-Others:
-- Zinc carnosine (more for fixing ulcers)
-- bile salts (??)
-- B-vitamins (??)
+- Others:
+	- Zinc carnosine (more for fixing ulcers)
+	- bile salts (??)
+	- B-vitamins (??)
 
 
 ###  Exercise
