@@ -1,92 +1,112 @@
+
 Creatine Mohohydrate, Thorne
 Brands: Thorne, 
 
-Minerals:
+## Minerals
 - Magnesium
 - Electrolytes
-- Trace minerals
+- Trace Minerals:
+  - Thorne?
+  - Liquid Minerals, BodyBio, ??
+- Electrolytes:
+  - BodyBio E-Elyte
+  - Thorne 
 
-
-Curcumin Phytosome, Thorne, 
-Brands: Thorne
-
+# Vitamins
 Vitamin C with Flavanoids, Thorne, 
 Brands: Thorne, 
 
-
-
 B complex #12, Thorne, targets brain health, 
+Vitamin D/K2, Thorne??
 
+## Other nutrients
 Phosphatidylcholine, Bodybio
 NB: should be liposomal, o/w is broken down in the gut.
 
-Electrolytes, BodyBio E-Elyte - Thorne 
 
-NAC, Thorne, 
 
-Betainee HCL & Pensin, 
+
+## Detox
+- NAC, Thorne, 
+- Glutathione-SR, Thorne,
+- Alpha lipoic acid vs R lipoic acid??
+- Binders:
+  - Quicksilver scientific??
+  - Activated charcoal
+  - sodium bentonite clay
+  - others?
+- Chlorella
+
+
+  
+Curcumin Phytosome, Thorne, 
+Brands: Thorne
+
+## Gut Health
+
+- Betainee HCL & Pensin,
+- TUDCA, BodyBio, 
+- OxBile
+
 TMG, 
-Alpha lipoic acid vs R lipoic acid??
-Theanine, Thorne, 
+
+## Brain Health:
+- Theanine, Thorne, 
+- CoQ10, Thorne??
+- Creatine
+
+
+
 Berberine, Thorne,
 Rhodiola, Thorne, 
-CoQ10, Thorne??
-Quercetin Phytosome, Thorne, 
-Glutathione-SR, Thorne, 
+Quercetin Phytosome, Thorne,
 
-Vitamin D/K2, Thorne??
+
 Basic Nutrients, Thorne, ??
-Trace Minerals, Thorne?
-Liquid Minerals, BodyBio, ??
 
-Chlorella, 
-TUDCA, BodyBio, 
-OxBile
+
 Phosphatidylserine, Thorne??
 
-Stress:
+## Stress
 - Ashwanghanda
 - Lithium Orotate?
-- 
 
-Brain health:
-- Creatine
-- magnesium
-- theanine?
-
+## Other
 Fish oil
 Cod liver oil
 desicated organ meats
 
 
-Mitochondrial support:
+## Mitochondrial support:
 - CoQ10?
 - Lipoid acid?
 - NAC?
 - Nicotinamide Riboside (NR?)
 
-Other:
-- Matcha,
-- EGCG
-
-
-Probiotics:
-- VSL #3 from Visbiome, 
-- Ackermansia - from Pendulum?
-- 
-
-Epson salts
 
 
 
-Good brands:
+# Probiotics:
+### VSL #3 from Visbiome
+- Visbiome can be taken at any time of day. Most probiotics are largely considered more effective when taken in the morning on an empty stomach.  
+- When taking antibiotics, certain strains contained in Visbiome may be inactivated by some medications. Avoid consuming Visbiome 4 hours before or after taking antibiotics. 
+- Visbiome should be refrigerated (36-46°F, 2-8°C) to be guaranteed through “Best If Used By” date. Visbiome® can be stored at room temperature for up to one week without adversely affecting potency.
+### Ackermansia - from Pendulum?
+
+
+
+## Good Supplement brands:
 - Pure encapsualtions, US - iHerb
 - thorne, US - iHerb
 - BePure, New Zealand
-- 
+- Quicksilver scientific?? verify
+- Metaggenics?
 
 
-
-
-
+## MISC
+- Epson salts: laxative, gall bladder flush, relaxing bath, 
+- Other:
+- Matcha,
+- EGCG
+  
 
