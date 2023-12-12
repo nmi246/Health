@@ -12,7 +12,7 @@ Brands: Thorne,
   - BodyBio E-Elyte
   - Thorne 
 
-# Vitamins
+## Vitamins
 Vitamin C with Flavanoids, Thorne, 
 Brands: Thorne, 
 
@@ -54,7 +54,7 @@ TMG,
 - Theanine, Thorne, 
 - CoQ10, Thorne??
 - Creatine
-
+  
 
 
 Berberine, Thorne,
@@ -71,22 +71,13 @@ Phosphatidylserine, Thorne??
 - Ashwanghanda
 - Lithium Orotate?
 
-## Other
-Fish oil
-Cod liver oil
-desicated organ meats
-
-
 ## Mitochondrial support:
 - CoQ10?
 - Lipoid acid?
 - NAC?
 - Nicotinamide Riboside (NR?)
 
-
-
-
-# Probiotics:
+## Probiotics:
 ### VSL #3 from Visbiome
 - Visbiome can be taken at any time of day. Most probiotics are largely considered more effective when taken in the morning on an empty stomach.  
 - When taking antibiotics, certain strains contained in Visbiome may be inactivated by some medications. Avoid consuming Visbiome 4 hours before or after taking antibiotics. 
@@ -108,5 +99,8 @@ desicated organ meats
 - Other:
 - Matcha,
 - EGCG
-  
+- Fish oil
+- Cod liver oil
+- desicated organ meats
+
 
