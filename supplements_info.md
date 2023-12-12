@@ -103,4 +103,26 @@ Phosphatidylserine, Thorne??
 - Cod liver oil
 - desicated organ meats
 
-
+## Where to buy:
+- In store from NZ pharmacies: BePure, other generic brands
+  - [Chemist Warehouse](chemistwarehouse.co.nz)
+  - [Life Pharmacy](lifepharmacy.co.nz)
+  - [Unichem](unichem.co.nz)
+- [iHerb](iherb.com): BodyBio, Thorne, Life Extensions
+- [NZSI](nzsi.co.nz)
+  - Quicksilver Scientific, Metagenics  
+  - Pure Encapsulations: only practioners can buy
+  - Douglas Laboraties??
+- [Pendulum](pendulumlife.com)
+  - products: Akkermansia probiotic
+  - NOTE: only ship to Canada and USA
+- [Energy Bits](energybits.com)
+  - products: chlorella, spirullina
+  - NOTE: Ship worldwide but shipping cost is $63 USD (as of 12/12/2023).  
+ - [Unichem Greenhithe](unichemgreenhithe.co.nz)
+  - Note: free shipping in NZ
+  - Sells Pure Encapsulations but only limited number of products.
+- Other stores (to be verified):
+  - https://www.youronlinepharmacy.co.nz
+    - Pure Encapsulation, Pendulum, VSL
+    - NOTE: very limited range, not worth buying from atm (12/12/2023)
