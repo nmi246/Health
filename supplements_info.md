@@ -119,7 +119,7 @@ Phosphatidylserine, Thorne??
 - [Energy Bits](energybits.com)
   - products: chlorella, spirullina
   - NOTE: Ship worldwide but shipping cost is $63 USD (as of 12/12/2023).  
- - [Unichem Greenhithe](unichemgreenhithe.co.nz)
+- [Unichem Greenhithe](unichemgreenhithe.co.nz)
   - Note: free shipping in NZ
   - Sells Pure Encapsulations but only limited number of products.
 - Other stores (to be verified):
