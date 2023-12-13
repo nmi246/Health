@@ -102,6 +102,7 @@ Phosphatidylserine, Thorne??
 - Fish oil
 - Cod liver oil
 - desicated organ meats
+- Inositol (as myo-inositol) - Pure Encapsulations 
 
 ## Where to buy:
 - In store from NZ pharmacies: BePure, other generic brands
