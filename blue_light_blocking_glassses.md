@@ -35,8 +35,10 @@ However, if you suffer from light sensitivity and deem peripheral light an issue
 
 Other brands:
 - https://www.swanwicksleep.com/\
-  - https://www.swanwicksleep.com/pages/swanwick-sleep-science
-- whoop.com
+  - sleep science: https://www.swanwicksleep.com/pages/swanwick-sleep-science
+  - ships worldwide. Shipping to NZ = $13 NZD.
+  - estimated shipping time: __ days.
+- whoop.com     
 - Research: best blue light blocking glasses brands
 - Gunnar??
   - https://gunnar.com/collections/all-glasses
@@ -45,11 +47,11 @@ Other brands:
   -	Not too expensive. Buy 2-3 pairs and decide which one suits best. 
   -	Use after sun goes down while using electronics. 
   -	Or render phone screen completely RED or GRAY.
+- https://www.blockbluelight.co.nz/
 
-
-Swanwick blue blocking %:
- 
-https://www.swanwicksleep.com/collections/blue-light-blocking-glasses#:~:text=Summary%3A%20Night%20Swannies%20Blue%20Light,green%20light%20from%20400%2D550nm.
+Swanwicks How much blue and green light they block(\%):
+- https://www.swanwicksleep.com/collections/blue-light-blocking-glasses#:~:text=Summary%3A%20Night%20Swannies%20Blue%20Light,green%20light%20from%20400%2D550nm.
+- ![image](https://github.com/nmi246/Health/assets/42329930/2d2ddcf8-413b-445e-a623-09a5d9d18efe)
 
 
 Notes from Andrew Huberman on Blue light:
