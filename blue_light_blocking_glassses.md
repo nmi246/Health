@@ -1,3 +1,6 @@
+# Boncharge 
+https://nz.boncharge.com
+
 Our Blue Light Blocking Glasses are our nighttime glasses with a red/amber lens. Peer reviewed academic studies have shown that the best Blue Light Blocking Glasses need to block 100% of blue and green light between 400-550nm.
 Our Blue Light Blocking Glasses have been lab spectrometer tested to block 100% of blue and green light between 400-550nm making them one of the most optimal Blue Light Blocking Glasses available.
 Our Blue Light Blocking Glasses are made in an optics laboratory and not factories, meaning experienced optical technicians create each lens. This also allows us to offer prescription, readers and non-prescription glasses and deliver a three-stage quality control process before shipping your glasses off to you.
@@ -33,28 +36,34 @@ However, if you suffer from light sensitivity and deem peripheral light an issue
 
 
 
-Other brands:
+## Other brands:
+### Block blue light
+- https://www.blockbluelight.co.nz/
+- options: Daymax, sunDownn, NightFall: https://www.blockbluelight.co.nz/collections/fitover-blue-blocking-glasses
+
+### Swanwick
 - https://www.swanwicksleep.com/\
   - sleep science: https://www.swanwicksleep.com/pages/swanwick-sleep-science
   - ships worldwide. Shipping to NZ = $13 NZD.
   - estimated shipping time: __ days.
-- whoop.com     
-- Research: best blue light blocking glasses brands
-- Gunnar??
+  - Swanwicks How much blue and green light they block(\%):
+- https://www.swanwicksleep.com/collections/blue-light-blocking-glasses#:~:text=Summary%3A%20Night%20Swannies%20Blue%20Light,green%20light%20from%20400%2D550nm.
+- ![image](https://github.com/nmi246/Health/assets/42329930/2d2ddcf8-413b-445e-a623-09a5d9d18efe)
+
+### whoop   
+
+### Gunnar
   - https://gunnar.com/collections/all-glasses
   -	Peter attia
   -	Evening glasses
   -	Not too expensive. Buy 2-3 pairs and decide which one suits best. 
   -	Use after sun goes down while using electronics. 
   -	Or render phone screen completely RED or GRAY.
-- https://www.blockbluelight.co.nz/
-
-Swanwicks How much blue and green light they block(\%):
-- https://www.swanwicksleep.com/collections/blue-light-blocking-glasses#:~:text=Summary%3A%20Night%20Swannies%20Blue%20Light,green%20light%20from%20400%2D550nm.
-- ![image](https://github.com/nmi246/Health/assets/42329930/2d2ddcf8-413b-445e-a623-09a5d9d18efe)
 
 
-Notes from Andrew Huberman on Blue light:
+
+
+### Notes from Andrew Huberman on Blue light:
 -	avoid bright lights of any kind after sunset. Use dimmed light. 
 -	Place light low: on the wall or ground. Avoid ceiling lights. 	
 -	Candle or moon light are also good options. 
