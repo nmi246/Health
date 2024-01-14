@@ -40,6 +40,7 @@ However, if you suffer from light sensitivity and deem peripheral light an issue
 ### Block blue light
 - https://www.blockbluelight.co.nz/
 - options: Daymax, sunDownn, NightFall: https://www.blockbluelight.co.nz/collections/fitover-blue-blocking-glasses
+- NZ shipping (3-7 business days): $5.95 NZD
 
 ### Swanwick
 - https://www.swanwicksleep.com/\
