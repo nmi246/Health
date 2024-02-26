@@ -89,9 +89,11 @@ Phosphatidylserine, Thorne??
 ## Good Supplement brands:
 - Pure encapsualtions, US - iHerb
 - thorne, US - iHerb
-- BePure, New Zealand
+- BePure, New Zealand ?? check quality 
 - Quicksilver scientific?? verify
-- Metaggenics?
+- Metaggenics? quality needs checking
+- Jarrow Formulas - iHerb 
+- Life extentions ?? check quality 
 
 
 ## MISC
