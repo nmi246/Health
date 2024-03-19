@@ -46,5 +46,8 @@ Source: https://www.youtube.com/watch?v=f5yXO71ZDec
 Source: https://www.youtube.com/watch?v=P3Y7XNUwg7k&t=2s
 
 
+FODMAPS:
+Source: https://www.monashfodmap.com/about-fodmap-and-ibs/high-and-low-fodmap-foods/
+![image](https://github.com/nmi246/Health/assets/42329930/763a52f2-7a44-4d24-a343-c53264a4a93f)
 
 
