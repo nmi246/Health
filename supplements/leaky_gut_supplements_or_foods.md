@@ -1,17 +1,23 @@
-Leaky gut:
+### Supplements for Leaky gut: (need to verify these)
 - L glutamine?
 - zinc, zinc carnosine?
 - PC?
 - insoluble fibre?
 - collagen 
 - quercetin?
-- clostrum?? 
+- clostrum??  
 
-From Mark Hyman:  Curcumin, vit A, zinc, both broth (collagen), glutamine, evening pimrose oil, 
+### Supplements for Leaky Gut from Mark Hyman:  
+- Curcumin,
+- Vitamin A
+- Zinc, Zinc Carnosine
+- Both broth (collagen)
+- Glutamine
+- Evening pimrose oil  
 
 
 
-Best foods for improving gut health and reducing leaky gut: 
+### Best foods for improving gut health and reducing leaky gut: 
 - Turmeric 
 - Clove & Peppermint 
 - Dark Chocolate & Berries 
@@ -22,11 +28,11 @@ Best foods for improving gut health and reducing leaky gut:
 - Sauerkraut 
 - Beef, Chicken, & Eggs
 - Omega 3s 
-- Fiber
+- Fiber  
 Source: https://www.youtube.com/watch?v=f5yXO71ZDec
 
   
-Worst foods for leaky gut:
+### Worst foods for leaky gut:
 - HIGHLY processed foods
 - Fats, emulsifiers, & sugars
 - Cooking METHODS to look out for
@@ -36,7 +42,7 @@ Worst foods for leaky gut:
 - Dairy (for some)
 - Prebiotics & FODMAPs
 - You can gain tolerance back
-- Controversial foods: 
+- Controversial foods:   
 Source: https://www.youtube.com/watch?v=P3Y7XNUwg7k&t=2s
 
 
